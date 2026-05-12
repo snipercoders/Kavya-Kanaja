@@ -1,0 +1,749 @@
+[
+  {
+    "id": 1,
+    "title": "ನಿಸರ್ಗ",
+    "poet": "ಕುವೆಂಪು",
+    "poetEnglish": "Kuvempu",
+    "era": "ಆಧುನಿಕ (Modern)",
+    "verse": "ಬೆಳಗಾಯಿತು ಎದ್ದೇಳು, ಕತ್ತಲೆ ಓಡಿ ಹೋಯಿತು, ಹೊಸ ಬೆಳಕು ಬಂದಿದೆ ಬಾ.",
+    "meaning": "Morning has come, wake up. The darkness has fled. New light has arrived, come.",
+    "bhavartha": "This poem by Kuvempu calls us to wake up from ignorance just as dawn drives away darkness. It symbolizes hope and a new beginning in life.",
+    "difficultWords": [
+      { "word": "ನಿಸರ್ಗ", "meaning": "Nature" },
+      { "word": "ಕತ್ತಲೆ", "meaning": "Darkness" },
+      { "word": "ಬೆಳಕು", "meaning": "Light" }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "ಭಾರತ ಮಾತೆ",
+    "poet": "ಕುವೆಂಪು",
+    "poetEnglish": "Kuvempu",
+    "era": "ಆಧುನಿಕ (Modern)",
+    "verse": "ಜಯ ಭಾರತ ಜನನಿಯ ತನುಜಾತೆ, ಜಯ ಹೇ ಕರ್ನಾಟಕ ಮಾತೆ.",
+    "meaning": "Victory to you, O daughter born of Mother India. Victory to you, O Mother Karnataka.",
+    "bhavartha": "This is the Karnataka state anthem written by Kuvempu. It celebrates both the nation India and the state Karnataka, expressing deep patriotism and cultural pride.",
+    "difficultWords": [
+      { "word": "ತನುಜಾತೆ", "meaning": "Daughter born of the body" },
+      { "word": "ಜನನಿ", "meaning": "Mother" }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "ಶ್ರಮ ಮಹಿಮೆ",
+    "poet": "ಕುವೆಂಪು",
+    "poetEnglish": "Kuvempu",
+    "era": "ಆಧುನಿಕ (Modern)",
+    "verse": "ಕೆಲಸವೇ ಕೈಲಾಸ, ದುಡಿಮೆಯೇ ದೇವರ ಪೂಜೆ, ಬೆವರೇ ಗಂಗಾಜಲ.",
+    "meaning": "Work itself is heaven. Labour is worship of God. Sweat is the holy water of Ganga.",
+    "bhavartha": "Kuvempu elevates the dignity of hard work. He says that honest labour is more sacred than any religious ritual. Sweat from hard work is as pure as the holy Ganga river.",
+    "difficultWords": [
+      { "word": "ಕೈಲಾಸ", "meaning": "Heaven/abode of God Shiva" },
+      { "word": "ದುಡಿಮೆ", "meaning": "Hard work/labour" },
+      { "word": "ಬೆವರು", "meaning": "Sweat" }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "ತಾಯಿ",
+    "poet": "ಕುವೆಂಪು",
+    "poetEnglish": "Kuvempu",
+    "era": "ಆಧುನಿಕ (Modern)",
+    "verse": "ತಾಯಿ ಎಂದರೆ ದೇವರು, ತಾಯಿ ಎಂದರೆ ಸ್ವರ್ಗ, ತಾಯಿ ಎಂದರೆ ಪ್ರೀತಿ.",
+    "meaning": "Mother means God. Mother means heaven. Mother means love.",
+    "bhavartha": "Kuvempu beautifully expresses that a mother encompasses everything divine in this world. She is God, heaven, and love all at once — the greatest blessing in any person's life.",
+    "difficultWords": [
+      { "word": "ತಾಯಿ", "meaning": "Mother" },
+      { "word": "ಸ್ವರ್ಗ", "meaning": "Heaven" },
+      { "word": "ಪ್ರೀತಿ", "meaning": "Love" }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "ಜ್ಞಾನ ದೀಪ",
+    "poet": "ಕುವೆಂಪು",
+    "poetEnglish": "Kuvempu",
+    "era": "ಆಧುನಿಕ (Modern)",
+    "verse": "ಜ್ಞಾನವೆಂಬ ದೀಪ ಬೆಳಗಿದರೆ ಅಜ್ಞಾನ ಕತ್ತಲೆ ಓಡಿಹೋಗುತ್ತದೆ.",
+    "meaning": "When the lamp of knowledge is lit, ignorance disappears.",
+    "bhavartha": "Education removes the darkness of ignorance and brings clarity and purpose to life. Kuvempu believed strongly in the power of education to transform society.",
+    "difficultWords": [
+      { "word": "ದೀಪ", "meaning": "Lamp" },
+      { "word": "ಅಜ್ಞಾನ", "meaning": "Ignorance" },
+      { "word": "ಬೆಳಗು", "meaning": "To light/illuminate" }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "ಸಾಹಸ",
+    "poet": "ಕುವೆಂಪು",
+    "poetEnglish": "Kuvempu",
+    "era": "ಆಧುನಿಕ (Modern)",
+    "verse": "ಸಾಹಸ ಮಾಡಿದವನೇ ಗೆಲ್ಲುವನು, ಹೆದರಿದವನು ಸೋತೇ ಉಳಿಯುವನು.",
+    "meaning": "The one who dares wins, the one who fears remains defeated.",
+    "bhavartha": "Kuvempu inspires courage and bold action. Fear keeps a person stuck in defeat while courage opens the door to victory. This verse motivates youth to take risks and move forward.",
+    "difficultWords": [
+      { "word": "ಸಾಹಸ", "meaning": "Courage/daring" },
+      { "word": "ಗೆಲ್ಲು", "meaning": "To win" },
+      { "word": "ಹೆದರು", "meaning": "To fear" }
+    ]
+  },
+  {
+    "id": 7,
+    "title": "ಸ್ನೇಹ",
+    "poet": "ಕುವೆಂಪು",
+    "poetEnglish": "Kuvempu",
+    "era": "ಆಧುನಿಕ (Modern)",
+    "verse": "ನಿಜವಾದ ಸ್ನೇಹವು ಹೃದಯಗಳನ್ನು ಸೇರಿಸುತ್ತದೆ, ಸ್ವಾರ್ಥವಿಲ್ಲದ ಬಂಧವದು.",
+    "meaning": "True friendship connects hearts, it is a bond without selfishness.",
+    "bhavartha": "Kuvempu describes genuine friendship as a selfless connection between hearts. Unlike worldly relationships driven by interest, true friendship is unconditional and pure.",
+    "difficultWords": [
+      { "word": "ಸ್ನೇಹ", "meaning": "Friendship" },
+      { "word": "ಹೃದಯ", "meaning": "Heart" },
+      { "word": "ಸ್ವಾರ್ಥ", "meaning": "Selfishness" }
+    ]
+  },
+  {
+    "id": 8,
+    "title": "ಉತ್ಸಾಹ",
+    "poet": "ಕುವೆಂಪು",
+    "poetEnglish": "Kuvempu",
+    "era": "ಆಧುನಿಕ (Modern)",
+    "verse": "ಉತ್ಸಾಹವೇ ಯಶಸ್ಸಿನ ಬೀಜ, ಅದನ್ನು ಬಿತ್ತಿದವನು ಫಲ ಕೊಯ್ಯುವನು.",
+    "meaning": "Enthusiasm is the seed of success, one who sows it shall reap the fruit.",
+    "bhavartha": "Kuvempu compares enthusiasm to a seed. Just as a farmer plants seeds to harvest crops, a person filled with positive energy and enthusiasm plants the foundation for future success.",
+    "difficultWords": [
+      { "word": "ಉತ್ಸಾಹ", "meaning": "Enthusiasm" },
+      { "word": "ಬೀಜ", "meaning": "Seed" },
+      { "word": "ಫಲ", "meaning": "Fruit/result" }
+    ]
+  },
+  {
+    "id": 9,
+    "title": "ವಚನ",
+    "poet": "ಬಸವಣ್ಣ",
+    "poetEnglish": "Basavanna",
+    "era": "ವಚನ ಸಾಹಿತ್ಯ (12th Century)",
+    "verse": "ಕಳಬೇಡ, ಕೊಲಬೇಡ, ಹುಸಿಯ ನುಡಿಯಲು ಬೇಡ, ಮುನಿಯಬೇಡ, ಅನ್ಯರಿಗೆ ಅಸಹ್ಯ ಪಡಬೇಡ.",
+    "meaning": "Do not steal, do not kill, do not speak lies, do not be angry, do not feel disgust towards others.",
+    "bhavartha": "Basavanna gives us the five golden rules of righteous living. This Vachana is the foundation of the Lingayat philosophy — a simple yet powerful moral code for humanity.",
+    "difficultWords": [
+      { "word": "ಕಳಬೇಡ", "meaning": "Do not steal" },
+      { "word": "ಹುಸಿ", "meaning": "Lie/falsehood" },
+      { "word": "ಮುನಿಯಬೇಡ", "meaning": "Do not be angry" }
+    ]
+  },
+  {
+    "id": 10,
+    "title": "ಶಾಂತಿ",
+    "poet": "ಬಸವಣ್ಣ",
+    "poetEnglish": "Basavanna",
+    "era": "ವಚನ ಸಾಹಿತ್ಯ (12th Century)",
+    "verse": "ಶಾಂತಿಯಲ್ಲೇ ಸತ್ಯ ಇದೆ, ಕ್ರೋಧದಲ್ಲಿ ಕೇವಲ ನಾಶ.",
+    "meaning": "Truth lies in peace, in anger there is only destruction.",
+    "bhavartha": "Basavanna warns that anger destroys the self and relationships. Only a calm and peaceful mind can perceive truth clearly. This vachana is a guide to emotional wisdom.",
+    "difficultWords": [
+      { "word": "ಶಾಂತಿ", "meaning": "Peace" },
+      { "word": "ಕ್ರೋಧ", "meaning": "Anger" },
+      { "word": "ನಾಶ", "meaning": "Destruction" }
+    ]
+  },
+  {
+    "id": 11,
+    "title": "ಸಮತೆ",
+    "poet": "ಬಸವಣ್ಣ",
+    "poetEnglish": "Basavanna",
+    "era": "ವಚನ ಸಾಹಿತ್ಯ (12th Century)",
+    "verse": "ಎಲ್ಲರೂ ಸಮಾನ ದೇವರ ಕಣ್ಣಲ್ಲಿ, ಕುಲ ಗೋತ್ರ ಬೇಧ ಮಾನವ ನಿರ್ಮಿತ.",
+    "meaning": "All are equal in the eyes of God, distinctions of caste and lineage are man-made.",
+    "bhavartha": "Basavanna was a fierce social reformer who fought against caste discrimination in 12th century Karnataka. He believed God sees all humans equally and that caste divisions are created by humans, not by the divine.",
+    "difficultWords": [
+      { "word": "ಸಮಾನ", "meaning": "Equal" },
+      { "word": "ಗೋತ್ರ", "meaning": "Clan/lineage" },
+      { "word": "ಬೇಧ", "meaning": "Discrimination/difference" }
+    ]
+  },
+  {
+    "id": 12,
+    "title": "ಕಾಯಕ",
+    "poet": "ಬಸವಣ್ಣ",
+    "poetEnglish": "Basavanna",
+    "era": "ವಚನ ಸಾಹಿತ್ಯ (12th Century)",
+    "verse": "ಕಾಯಕವೇ ಕೈಲಾಸ, ದುಡಿಮೆಯಲ್ಲಿ ದೇವರ ದರ್ಶನ.",
+    "meaning": "Work is heaven itself, in labour one gets the vision of God.",
+    "bhavartha": "Basavanna's concept of Kayaka means honest daily work is the highest form of worship. One does not need temples or rituals — sincere work done with devotion is itself a path to God.",
+    "difficultWords": [
+      { "word": "ಕಾಯಕ", "meaning": "Daily work/occupation" },
+      { "word": "ದರ್ಶನ", "meaning": "Vision/sight of God" },
+      { "word": "ಕೈಲಾಸ", "meaning": "Abode of Lord Shiva/heaven" }
+    ]
+  },
+  {
+    "id": 13,
+    "title": "ಜೀವನ ಸಂಗೀತ",
+    "poet": "ಡಿ.ವಿ.ಗುಂಡಪ್ಪ",
+    "poetEnglish": "D.V. Gundappa (DVG)",
+    "era": "ಆಧುನಿಕ (Modern)",
+    "verse": "ಮಂಕುತಿಮ್ಮನ ಕಗ್ಗ — ಈ ಜಗದ ನಡೆಯನು ನೋಡು, ಸುಖದುಃಖ ಎರಡೂ ಬರುವುದು ಹೋಗುವುದು.",
+    "meaning": "Look at the ways of this world. Both happiness and sorrow come and go.",
+    "bhavartha": "DVG reminds us that life is a mixture of joy and pain. Nothing is permanent. This philosophical outlook helps us face difficulties with calmness and wisdom.",
+    "difficultWords": [
+      { "word": "ಮಂಕುತಿಮ್ಮ", "meaning": "The dull/ordinary person — DVG's humble self-reference" },
+      { "word": "ಕಗ್ಗ", "meaning": "A verse/riddle about life" },
+      { "word": "ಸುಖದುಃಖ", "meaning": "Happiness and sorrow" }
+    ]
+  },
+  {
+    "id": 14,
+    "title": "ಮನುಷ್ಯತ್ವ",
+    "poet": "ಡಿ.ವಿ.ಗುಂಡಪ್ಪ",
+    "poetEnglish": "D.V. Gundappa (DVG)",
+    "era": "ಆಧುನಿಕ (Modern)",
+    "verse": "ಮನುಷ್ಯತ್ವವೇ ಮಾನವನ ಅತಿ ದೊಡ್ಡ ಗುಣ, ಅದನ್ನು ಕಳೆದುಕೊಂಡವನು ಪಶುವಿಗಿಂತ ಕಡೆ.",
+    "meaning": "Humanity is the greatest quality of a human, one who loses it is worse than an animal.",
+    "bhavartha": "DVG places humanity above all other qualities. A person without compassion, kindness and empathy has lost their most essential human quality — making them less than even animals who act by instinct.",
+    "difficultWords": [
+      { "word": "ಮನುಷ್ಯತ್ವ", "meaning": "Humanity/human nature" },
+      { "word": "ಗುಣ", "meaning": "Quality/virtue" },
+      { "word": "ಪಶು", "meaning": "Animal" }
+    ]
+  },
+  {
+    "id": 15,
+    "title": "ಮೌಲ್ಯ",
+    "poet": "ಡಿ.ವಿ.ಗುಂಡಪ್ಪ",
+    "poetEnglish": "D.V. Gundappa (DVG)",
+    "era": "ಆಧುನಿಕ (Modern)",
+    "verse": "ಮೌಲ್ಯಗಳನ್ನು ಕಾಪಾಡು, ಅವೇ ನಿನ್ನ ನಿಜವಾದ ಸಂಪತ್ತು.",
+    "meaning": "Protect your values, they are your true wealth.",
+    "bhavartha": "DVG says that material wealth comes and goes but values — honesty, integrity, compassion — are the real treasures of a person. A person rich in values is truly wealthy regardless of money.",
+    "difficultWords": [
+      { "word": "ಮೌಲ್ಯ", "meaning": "Values/principles" },
+      { "word": "ಕಾಪಾಡು", "meaning": "To protect/guard" },
+      { "word": "ಸಂಪತ್ತು", "meaning": "Wealth/treasure" }
+    ]
+  },
+  {
+    "id": 16,
+    "title": "ನೀತಿ",
+    "poet": "ಡಿ.ವಿ.ಗುಂಡಪ್ಪ",
+    "poetEnglish": "D.V. Gundappa (DVG)",
+    "era": "ಆಧುನಿಕ (Modern)",
+    "verse": "ನೀತಿಯೇ ನಿಜವಾದ ಶಕ್ತಿ, ಅನೀತಿ ಎಂದಿಗೂ ಗೆಲ್ಲದು.",
+    "meaning": "Ethics is true strength, injustice can never win.",
+    "bhavartha": "DVG firmly believes that moral strength is greater than physical or material power. History has shown time and again that unethical paths may bring short-term gain but eventually lead to downfall.",
+    "difficultWords": [
+      { "word": "ನೀತಿ", "meaning": "Ethics/righteousness" },
+      { "word": "ಶಕ್ತಿ", "meaning": "Strength/power" },
+      { "word": "ಅನೀತಿ", "meaning": "Injustice/unethical behavior" }
+    ]
+  },
+  {
+    "id": 17,
+    "title": "ಪ್ರೇಮ",
+    "poet": "ಬೇಂದ್ರೆ",
+    "poetEnglish": "Da. Ra. Bendre",
+    "era": "ಆಧುನಿಕ (Modern)",
+    "verse": "ನಾನು ಬರೆದ ಕವನ ನೀನು, ನೀನು ಹಾಡಿದ ಗೀತ ನಾನು, ಇಬ್ಬರೂ ಒಂದೇ ಆದೆವು.",
+    "meaning": "You are the poem I wrote, I am the song you sang. We both became one.",
+    "bhavartha": "Bendre beautifully describes the union of two souls in love. The metaphor of poem and song merging represents how true love makes two people inseparable.",
+    "difficultWords": [
+      { "word": "ಕವನ", "meaning": "Poem" },
+      { "word": "ಗೀತ", "meaning": "Song" }
+    ]
+  },
+  {
+    "id": 18,
+    "title": "ನದಿ",
+    "poet": "ಬೇಂದ್ರೆ",
+    "poetEnglish": "Da. Ra. Bendre",
+    "era": "ಆಧುನಿಕ (Modern)",
+    "verse": "ಹರಿಯುತಿದೆ ನದಿ ನಿರಂತರ, ನಿಲ್ಲದೆ ಸಾಗುತಿದೆ ಮುಂದೆ, ಜೀವನವೂ ಹೀಗೆಯೇ.",
+    "meaning": "The river flows continuously, moving forward without stopping. Life too is like this.",
+    "bhavartha": "Bendre uses the flowing river as a metaphor for life. Just as a river never stops flowing, life must keep moving forward despite all obstacles.",
+    "difficultWords": [
+      { "word": "ನಿರಂತರ", "meaning": "Continuously/without stop" },
+      { "word": "ಸಾಗು", "meaning": "To move forward/journey" }
+    ]
+  },
+  {
+    "id": 19,
+    "title": "ಸಹನೆ",
+    "poet": "ಬೇಂದ್ರೆ",
+    "poetEnglish": "Da. Ra. Bendre",
+    "era": "ಆಧುನಿಕ (Modern)",
+    "verse": "ಸಹನೆ ಎಂಬುದು ಬಲ, ಅದು ಜೀವನದ ಆಭರಣ, ಸಹಿಸಿದವನು ಮಹಾನ್.",
+    "meaning": "Patience is strength, it is life's ornament, the one who endures is great.",
+    "bhavartha": "Bendre elevates patience as a mark of greatness. In a world that demands instant results, the ability to endure quietly and persist is the true ornament of a noble character.",
+    "difficultWords": [
+      { "word": "ಸಹನೆ", "meaning": "Patience/endurance" },
+      { "word": "ಆಭರಣ", "meaning": "Ornament/jewel" },
+      { "word": "ಮಹಾನ್", "meaning": "Great/noble" }
+    ]
+  },
+  {
+    "id": 20,
+    "title": "ಪ್ರೀತಿ",
+    "poet": "ಬೇಂದ್ರೆ",
+    "poetEnglish": "Da. Ra. Bendre",
+    "era": "ಆಧುನಿಕ (Modern)",
+    "verse": "ಪ್ರೀತಿ ಜೀವನದ ಆತ್ಮ, ಅದಿಲ್ಲದ ಬಾಳು ಬರಿದು.",
+    "meaning": "Love is the soul of life, a life without it is empty.",
+    "bhavartha": "Bendre says love is not just an emotion — it is the very essence of living. Without love for others, for nature, for art, life becomes hollow and meaningless.",
+    "difficultWords": [
+      { "word": "ಆತ್ಮ", "meaning": "Soul/spirit" },
+      { "word": "ಬಾಳು", "meaning": "Life" },
+      { "word": "ಬರಿದು", "meaning": "Empty/hollow" }
+    ]
+  },
+  {
+    "id": 21,
+    "title": "ಅಕ್ಕನ ವಚನ",
+    "poet": "ಅಕ್ಕ ಮಹಾದೇವಿ",
+    "poetEnglish": "Akka Mahadevi",
+    "era": "ವಚನ ಸಾಹಿತ್ಯ (12th Century)",
+    "verse": "ಲೋಕದ ಡೊಂಕ ನೀನು ತಿದ್ದಲು ಹೋಗಬೇಡ, ನಿನ್ನ ಮನದ ಡೊಂಕ ತಿದ್ದಿಕೋ ಮೊದಲು.",
+    "meaning": "Do not go about trying to correct the wrongs of the world. First correct the wrongs within your own mind.",
+    "bhavartha": "Akka Mahadevi gives us one of the most powerful messages of self-improvement. Before criticizing the world, we must look within ourselves and fix our own faults.",
+    "difficultWords": [
+      { "word": "ಡೊಂಕ", "meaning": "Crookedness/wrong" },
+      { "word": "ತಿದ್ದು", "meaning": "To correct/fix" },
+      { "word": "ಮನ", "meaning": "Mind/heart" }
+    ]
+  },
+  {
+    "id": 22,
+    "title": "ಭಕ್ತಿಯ ದಾರಿ",
+    "poet": "ಅಕ್ಕ ಮಹಾದೇವಿ",
+    "poetEnglish": "Akka Mahadevi",
+    "era": "ವಚನ ಸಾಹಿತ್ಯ (12th Century)",
+    "verse": "ಶಿವನ ಪ್ರೇಮ ಹೊತ್ತ ಮೇಲೆ ಲೋಕದ ಭಯವಿಲ್ಲ, ಆತ್ಮ ಮುಕ್ತ ಆಗಿ ಹಾರುತ್ತದೆ.",
+    "meaning": "Once you carry Shiva's love, there is no fear of the world, the soul becomes free and soars.",
+    "bhavartha": "Akka Mahadevi describes how divine love liberates the soul from all worldly fears and attachments. When one is filled with devotion to God, nothing in the material world can bind or frighten them.",
+    "difficultWords": [
+      { "word": "ಪ್ರೇಮ", "meaning": "Love/devotion" },
+      { "word": "ಮುಕ್ತ", "meaning": "Free/liberated" },
+      { "word": "ಆತ್ಮ", "meaning": "Soul" }
+    ]
+  },
+  {
+    "id": 23,
+    "title": "ವಿದ್ಯೆಯ ಮಹಿಮೆ",
+    "poet": "ಸರ್ವಜ್ಞ",
+    "poetEnglish": "Sarvagna",
+    "era": "ಮಧ್ಯಕಾಲ (Medieval - 13th Century)",
+    "verse": "ವಿದ್ಯೆ ಇಲ್ಲದ ಮನುಜನು, ಕಣ್ಣಿದ್ದೂ ಕುರುಡನು, ಜ್ಞಾನವೇ ನಿಜವಾದ ದೃಷ್ಟಿ.",
+    "meaning": "A person without education is blind even with eyes. Knowledge is the true vision.",
+    "bhavartha": "Sarvagna says education gives us the ability to truly see and understand the world. Without knowledge, we are blind to reality even if our physical eyes work perfectly.",
+    "difficultWords": [
+      { "word": "ಮನುಜ", "meaning": "Human being" },
+      { "word": "ಕುರುಡ", "meaning": "Blind person" },
+      { "word": "ದೃಷ್ಟಿ", "meaning": "Vision/sight" }
+    ]
+  },
+  {
+    "id": 24,
+    "title": "ಸತ್ಯದ ಹಾಡು",
+    "poet": "ಸರ್ವಜ್ಞ",
+    "poetEnglish": "Sarvagna",
+    "era": "ಮಧ್ಯಕಾಲ (Medieval - 13th Century)",
+    "verse": "ಸತ್ಯವೇ ಸ್ವರ್ಗ, ಸತ್ಯವೇ ದೇವರು, ಸತ್ಯ ನುಡಿದವನ ಬಾಯಲ್ಲಿ ಸರಸ್ವತಿ.",
+    "meaning": "Truth is heaven, truth is God. On the lips of one who speaks truth, Goddess Saraswati resides.",
+    "bhavartha": "Sarvagna celebrates truthfulness as the highest virtue. He says that speaking the truth is so sacred that Goddess Saraswati — the goddess of knowledge and speech — herself dwells on the lips of a truthful person.",
+    "difficultWords": [
+      { "word": "ಸತ್ಯ", "meaning": "Truth" },
+      { "word": "ಸರಸ್ವತಿ", "meaning": "Goddess of knowledge and speech" },
+      { "word": "ನುಡಿ", "meaning": "To speak/utter" }
+    ]
+  },
+  {
+    "id": 25,
+    "title": "ಕಾಲ",
+    "poet": "ಸರ್ವಜ್ಞ",
+    "poetEnglish": "Sarvagna",
+    "era": "ಮಧ್ಯಕಾಲ (Medieval - 13th Century)",
+    "verse": "ಕಾಲ ಯಾರಿಗಾಗಿ ನಿಲ್ಲುವುದಿಲ್ಲ, ಕಳೆದ ಕ್ಷಣ ಮತ್ತೆ ಬರುವುದಿಲ್ಲ.",
+    "meaning": "Time waits for no one, the moment that has passed never returns.",
+    "bhavartha": "Sarvagna urges us to value every moment of time. Once a moment passes it is gone forever. This tripadi is a reminder to use time wisely and not waste precious moments in laziness or procrastination.",
+    "difficultWords": [
+      { "word": "ಕಾಲ", "meaning": "Time" },
+      { "word": "ಕ್ಷಣ", "meaning": "Moment/instant" },
+      { "word": "ನಿಲ್ಲು", "meaning": "To stop/wait" }
+    ]
+  },
+  {
+    "id": 26,
+    "title": "ಶಿಕ್ಷಣ",
+    "poet": "ಸರ್ವಜ್ಞ",
+    "poetEnglish": "Sarvagna",
+    "era": "ಮಧ್ಯಕಾಲ (Medieval - 13th Century)",
+    "verse": "ಶಿಕ್ಷಣವೇ ಬೆಳಕು, ಅಜ್ಞಾನವೇ ಕತ್ತಲೆ, ಕಲಿತವನು ಸದಾ ಮೇಲಾಗುವನು.",
+    "meaning": "Education is light, ignorance is darkness, the one who learns always rises.",
+    "bhavartha": "Sarvagna strongly advocates education as the path to rise in life. Just as light dispels darkness, education removes ignorance and leads a person to a better, more enlightened existence.",
+    "difficultWords": [
+      { "word": "ಶಿಕ್ಷಣ", "meaning": "Education" },
+      { "word": "ಅಜ್ಞಾನ", "meaning": "Ignorance" },
+      { "word": "ಸದಾ", "meaning": "Always/forever" }
+    ]
+  },
+  {
+    "id": 27,
+    "title": "ರಾಮನ ಮಹಿಮೆ",
+    "poet": "ಕನಕದಾಸ",
+    "poetEnglish": "Kanakadasa",
+    "era": "ಭಕ್ತಿ ಕಾಲ (Bhakti - 16th Century)",
+    "verse": "ಕುಲ ಕುಲ ಕುಲ ಎಂದು ಹೊಡೆದಾಡದಿರಿ, ನಿಮ್ಮ ಕುಲದ ನೇಮವನು ನೀವು ತಿಳಿಯಿರಿ.",
+    "meaning": "Do not fight over caste and lineage. First understand the true duty of your own lineage.",
+    "bhavartha": "Kanakadasa, a saint-poet who challenged caste discrimination, urges people to stop fighting over caste. He believed all humans are equal before God and that true caste is determined by conduct, not birth.",
+    "difficultWords": [
+      { "word": "ಕುಲ", "meaning": "Caste/lineage" },
+      { "word": "ನೇಮ", "meaning": "Duty/rule/vow" },
+      { "word": "ಹೊಡೆದಾಡು", "meaning": "To fight/quarrel" }
+    ]
+  },
+  {
+    "id": 28,
+    "title": "ಧೈರ್ಯ",
+    "poet": "ಕನಕದಾಸ",
+    "poetEnglish": "Kanakadasa",
+    "era": "ಭಕ್ತಿ ಕಾಲ (Bhakti - 16th Century)",
+    "verse": "ಧೈರ್ಯವಿರುವವನು ಎಂದಿಗೂ ಸೋಲುವುದಿಲ್ಲ, ದೇವರ ಕೃಪೆ ಅವನ ಜೊತೆ ಸದಾ.",
+    "meaning": "A courageous person never truly loses, God's grace is always with them.",
+    "bhavartha": "Kanakadasa connects courage with divine grace. He believed that a person who faces life with bravery and faith in God will never be truly defeated. Courage and devotion together make a person invincible.",
+    "difficultWords": [
+      { "word": "ಧೈರ್ಯ", "meaning": "Courage/bravery" },
+      { "word": "ಕೃಪೆ", "meaning": "Grace/blessing" },
+      { "word": "ಎಂದಿಗೂ", "meaning": "Never/ever" }
+    ]
+  },
+  {
+    "id": 29,
+    "title": "ಸಹಕಾರ",
+    "poet": "ಕನಕದಾಸ",
+    "poetEnglish": "Kanakadasa",
+    "era": "ಭಕ್ತಿ ಕಾಲ (Bhakti - 16th Century)",
+    "verse": "ಒಟ್ಟಾಗಿ ಕೆಲಸ ಮಾಡಿದರೆ ಫಲ ಹೆಚ್ಚು, ಒಡೆದ ಸಮಾಜ ಸೋಲುವುದು.",
+    "meaning": "Working together gives better results, a divided society loses.",
+    "bhavartha": "Kanakadasa emphasizes the power of unity and teamwork. A society that is divided by caste, religion or politics weakens itself. When people work together with shared purpose, outcomes are far greater.",
+    "difficultWords": [
+      { "word": "ಒಟ್ಟಾಗಿ", "meaning": "Together/united" },
+      { "word": "ಫಲ", "meaning": "Result/fruit" },
+      { "word": "ಒಡೆ", "meaning": "To divide/split" }
+    ]
+  },
+  {
+    "id": 30,
+    "title": "ಪುರಂದರ ದಾಸರ ಕೀರ್ತನೆ",
+    "poet": "ಪುರಂದರ ದಾಸ",
+    "poetEnglish": "Purandaradasa",
+    "era": "ಭಕ್ತಿ ಕಾಲ (Bhakti - 16th Century)",
+    "verse": "ದೇವರ ನಾಮ ಜಪಿಸಿರೊ, ಮನವೆ ದೇವರ ನಾಮ ಜಪಿಸಿರೊ, ಭವ ಸಾಗರ ದಾಟಲು ನಾಮವೇ ದೋಣಿ.",
+    "meaning": "Chant the name of God, O mind. The divine name is the boat to cross the ocean of worldly existence.",
+    "bhavartha": "Purandaradasa, called the Pitamaha of Carnatic music, urges the mind to chant God's name as the only boat to cross the turbulent ocean of life and rebirth.",
+    "difficultWords": [
+      { "word": "ಜಪಿಸು", "meaning": "To chant/recite" },
+      { "word": "ಭವ ಸಾಗರ", "meaning": "Ocean of worldly existence" },
+      { "word": "ದೋಣಿ", "meaning": "Boat" }
+    ]
+  },
+  {
+    "id": 31,
+    "title": "ನಂಬಿಕೆ",
+    "poet": "ಪುರಂದರ ದಾಸ",
+    "poetEnglish": "Purandaradasa",
+    "era": "ಭಕ್ತಿ ಕಾಲ (Bhakti - 16th Century)",
+    "verse": "ನಂಬಿಕೆಯೇ ಬಲ, ದೇವರಲ್ಲಿ ನಂಬಿಕೆ ಇದ್ದವನ ಬದುಕು ಸಾರ್ಥಕ.",
+    "meaning": "Faith is strength, the life of one who has faith in God is meaningful.",
+    "bhavartha": "Purandaradasa says that faith — especially faith in God — is the greatest source of strength. A person with unwavering belief lives a purposeful and fulfilling life regardless of external difficulties.",
+    "difficultWords": [
+      { "word": "ನಂಬಿಕೆ", "meaning": "Faith/belief" },
+      { "word": "ಸಾರ್ಥಕ", "meaning": "Meaningful/worthwhile" },
+      { "word": "ಬಲ", "meaning": "Strength/power" }
+    ]
+  },
+  {
+    "id": 32,
+    "title": "ಭಕ್ತಿ",
+    "poet": "ಪುರಂದರ ದಾಸ",
+    "poetEnglish": "Purandaradasa",
+    "era": "ಭಕ್ತಿ ಕಾಲ (Bhakti - 16th Century)",
+    "verse": "ಭಕ್ತಿಯಿಂದ ದೇವರನ್ನು ಅರಿಯಬಹುದು, ಜ್ಞಾನ ಮತ್ತು ಪ್ರೇಮ ಒಂದಾಗಲಿ.",
+    "meaning": "Through devotion one can realize God, let knowledge and love unite.",
+    "bhavartha": "Purandaradasa believed that pure devotion is the most direct path to experiencing the divine. When intellectual knowledge and heartfelt love for God combine, the seeker achieves the deepest spiritual realization.",
+    "difficultWords": [
+      { "word": "ಭಕ್ತಿ", "meaning": "Devotion/faith" },
+      { "word": "ಅರಿ", "meaning": "To know/understand" },
+      { "word": "ಪ್ರೇಮ", "meaning": "Love" }
+    ]
+  },
+  {
+    "id": 33,
+    "title": "ಮಲೆನಾಡಿನ ಚಿತ್ರ",
+    "poet": "ಶಿವರಾಮ ಕಾರಂತ",
+    "poetEnglish": "Shivaram Karanth",
+    "era": "ಆಧುನಿಕ (Modern - 20th Century)",
+    "verse": "ಮಳೆ ಬಿದ್ದ ಮಲೆನಾಡಿನ ಹಸಿರಿನಲ್ಲಿ, ಮನಸ್ಸು ತೇಲಿ ಹೋಗುತ್ತದೆ ಮೇಘದಂತೆ.",
+    "meaning": "In the greenery of the rain-soaked Malenadu hills, the mind floats away like a cloud.",
+    "bhavartha": "Shivaram Karanth paints the lush Malenadu landscape. The mind, like a cloud, becomes weightless and free in the beauty of nature — a reminder to connect with the natural world around us.",
+    "difficultWords": [
+      { "word": "ಮಲೆನಾಡು", "meaning": "Hilly/forest region of Karnataka" },
+      { "word": "ಮೇಘ", "meaning": "Cloud" },
+      { "word": "ತೇಲು", "meaning": "To float/drift" }
+    ]
+  },
+  {
+    "id": 34,
+    "title": "ಅಲ್ಲಮನ ವಚನ",
+    "poet": "ಅಲ್ಲಮಪ್ರಭು",
+    "poetEnglish": "Allama Prabhu",
+    "era": "ವಚನ ಸಾಹಿತ್ಯ (12th Century)",
+    "verse": "ಬೆಳಕಿನ ಮಾತ ಕೇಳಲು ಕಿವಿ ಬೇಕು, ಕಾಣಲು ಕಣ್ಣು ಬೇಕು, ಅರಿಯಲು ಅಂತರಂಗ ಬೇಕು.",
+    "meaning": "To hear the words of light, one needs ears. To see, one needs eyes. To understand, one needs the inner self.",
+    "bhavartha": "Allama Prabhu says divine knowledge cannot be grasped by senses alone — it requires inner awakening and spiritual consciousness.",
+    "difficultWords": [
+      { "word": "ಅಂತರಂಗ", "meaning": "Inner self/soul" },
+      { "word": "ಅರಿ", "meaning": "To understand" },
+      { "word": "ಬೆಳಕು", "meaning": "Light/divine knowledge" }
+    ]
+  },
+  {
+    "id": 35,
+    "title": "ಕರ್ನಾಟಕ ಗಾನ",
+    "poet": "ರಾಷ್ಟ್ರಕವಿ ಗೋವಿಂದ ಪೈ",
+    "poetEnglish": "Rashtra Kavi Govinda Pai",
+    "era": "ಆಧುನಿಕ (Modern - Early 20th Century)",
+    "verse": "ಹುಟ್ಟಿದರೆ ಕನ್ನಡ ನಾಡಿನಲ್ಲಿ ಹುಟ್ಟಬೇಕು, ಮೆಟ್ಟಿದರೆ ಕನ್ನಡದ ನೆಲವ ಮೆಟ್ಟಬೇಕು.",
+    "meaning": "If one is to be born, be born in the land of Kannada. If one is to tread, tread upon the soil of Kannada.",
+    "bhavartha": "Govinda Pai expresses immense pride in the Kannada land and its culture. He believed that being born in Karnataka is itself a great fortune — a blessing to be cherished.",
+    "difficultWords": [
+      { "word": "ನಾಡು", "meaning": "Land/region/country" },
+      { "word": "ಮೆಟ್ಟು", "meaning": "To tread/step upon" },
+      { "word": "ನೆಲ", "meaning": "Soil/ground/earth" }
+    ]
+  },
+  {
+    "id": 36,
+    "title": "ಸಂಸ್ಕೃತಿ",
+    "poet": "ರಾಷ್ಟ್ರಕವಿ ಗೋವಿಂದ ಪೈ",
+    "poetEnglish": "Rashtra Kavi Govinda Pai",
+    "era": "ಆಧುನಿಕ (Modern - Early 20th Century)",
+    "verse": "ಸಂಸ್ಕೃತಿಯೇ ಗುರುತು, ಭಾಷೆಯೇ ಬಂಧ, ಕನ್ನಡ ನಮ್ಮ ಹೆಮ್ಮೆ.",
+    "meaning": "Culture is identity, language is the bond, Kannada is our pride.",
+    "bhavartha": "Govinda Pai celebrates Kannada language and culture as the defining identity of Karnataka's people. Language is not just communication — it is the thread that binds a community across generations.",
+    "difficultWords": [
+      { "word": "ಸಂಸ್ಕೃತಿ", "meaning": "Culture/heritage" },
+      { "word": "ಗುರುತು", "meaning": "Identity/recognition" },
+      { "word": "ಹೆಮ್ಮೆ", "meaning": "Pride" }
+    ]
+  },
+  {
+    "id": 37,
+    "title": "ಹಕ್ಕಿ ಹಾರುತಿದೆ",
+    "poet": "ನಿಸಾರ್ ಅಹಮದ್",
+    "poetEnglish": "K.S. Nissar Ahmed",
+    "era": "ಆಧುನಿಕ (Modern - 20th Century)",
+    "verse": "ಹಕ್ಕಿ ಹಾರುತಿದೆ ನೋಡಿದಿರಾ, ದಿಕ್ಕು ದಿಕ್ಕಿಗೂ ಹಾರುತಿದೆ, ಮನಸ್ಸೂ ಹಾಗೆಯೇ ಇರಬೇಕು.",
+    "meaning": "Have you seen the bird fly? It flies in every direction. The mind too should be like that — free.",
+    "bhavartha": "Nissar Ahmed uses a flying bird as a symbol of freedom of thought. The human mind should be free like a bird — unlimited by boundaries of religion, caste, or region.",
+    "difficultWords": [
+      { "word": "ಹಕ್ಕಿ", "meaning": "Bird" },
+      { "word": "ದಿಕ್ಕು", "meaning": "Direction" },
+      { "word": "ಹಾರು", "meaning": "To fly" }
+    ]
+  },
+  {
+    "id": 38,
+    "title": "ಮನಸ್ಸು",
+    "poet": "ನಿಸಾರ್ ಅಹಮದ್",
+    "poetEnglish": "K.S. Nissar Ahmed",
+    "era": "ಆಧುನಿಕ (Modern - 20th Century)",
+    "verse": "ಮನಸ್ಸು ಸ್ವಚ್ಛವಾಗಿರಲಿ, ವಿಚಾರ ಶುದ್ಧವಾಗಿರಲಿ, ಆಗ ಜೀವನ ಸುಂದರ.",
+    "meaning": "Let the mind be pure, let thoughts be clean, then life becomes beautiful.",
+    "bhavartha": "Nissar Ahmed says that external beauty of the world depends on the purity of our inner mind. Clean thoughts lead to beautiful actions and a beautiful life — everything starts from within.",
+    "difficultWords": [
+      { "word": "ಮನಸ್ಸು", "meaning": "Mind" },
+      { "word": "ಸ್ವಚ್ಛ", "meaning": "Clean/pure" },
+      { "word": "ವಿಚಾರ", "meaning": "Thought/idea" }
+    ]
+  },
+  {
+    "id": 39,
+    "title": "ಭೂಮಿ ತಾಯಿ",
+    "poet": "ಚನ್ನವೀರ ಕಣವಿ",
+    "poetEnglish": "Channaveer Kanavi",
+    "era": "ಆಧುನಿಕ (Modern - 20th Century)",
+    "verse": "ಈ ಮಣ್ಣಿನ ಸಾಲಿನಲ್ಲಿ ನನ್ನ ಜೀವ, ಈ ನೆಲದ ಕಣ ಕಣದಲ್ಲಿ ನನ್ನ ಪ್ರೀತಿ.",
+    "meaning": "In every row of this soil lies my life. In every grain of this land lies my love.",
+    "bhavartha": "Channaveer Kanavi expresses an inseparable bond with the earth. His love for the land is not just patriotic but deeply spiritual — he sees himself as one with the soil itself.",
+    "difficultWords": [
+      { "word": "ಮಣ್ಣು", "meaning": "Soil/earth" },
+      { "word": "ಕಣ", "meaning": "Grain/particle" },
+      { "word": "ಸಾಲು", "meaning": "Row/line" }
+    ]
+  },
+  {
+    "id": 40,
+    "title": "ಬಾಳು",
+    "poet": "ಚನ್ನವೀರ ಕಣವಿ",
+    "poetEnglish": "Channaveer Kanavi",
+    "era": "ಆಧುನಿಕ (Modern - 20th Century)",
+    "verse": "ಬಾಳು ಒಂದು ಪಾಠ, ಪ್ರತಿ ನೋವೂ ಒಂದು ಪಾಠ, ಕಲಿತವನು ಎಂದೂ ಸೋಲದು.",
+    "meaning": "Life is a lesson, every pain is a lesson, the one who learns never loses.",
+    "bhavartha": "Kanavi sees life's struggles not as punishments but as teachings. Every painful experience carries a lesson within it. The person who learns from pain and difficulty becomes wiser and stronger — never truly defeated.",
+    "difficultWords": [
+      { "word": "ಬಾಳು", "meaning": "Life" },
+      { "word": "ಪಾಠ", "meaning": "Lesson" },
+      { "word": "ನೋವು", "meaning": "Pain/suffering" }
+    ]
+  },
+  {
+    "id": 41,
+    "title": "ಮೌನ ಮಾತು",
+    "poet": "ವಿ.ಕೃ. ಗೋಕಾಕ",
+    "poetEnglish": "V.K. Gokak",
+    "era": "ಆಧುನಿಕ (Modern - 20th Century)",
+    "verse": "ಮಾತಿನಲ್ಲಿ ಹೇಳಲಾಗದ್ದನು, ಮೌನ ಹೇಳುತ್ತದೆ ಸ್ಪಷ್ಟವಾಗಿ, ಪ್ರೀತಿಗೆ ಭಾಷೆ ಬೇಡ.",
+    "meaning": "What cannot be said in words, silence speaks clearly. Love needs no language.",
+    "bhavartha": "V.K. Gokak reflects on the power of silence. True feelings — especially love — transcend language and are felt beyond words. Sometimes the deepest communication happens without any words at all.",
+    "difficultWords": [
+      { "word": "ಮೌನ", "meaning": "Silence" },
+      { "word": "ಸ್ಪಷ್ಟ", "meaning": "Clear/explicit" },
+      { "word": "ಭಾಷೆ", "meaning": "Language" }
+    ]
+  },
+  {
+    "id": 42,
+    "title": "ಪ್ರಯಾಣ",
+    "poet": "ವಿ.ಕೃ. ಗೋಕಾಕ",
+    "poetEnglish": "V.K. Gokak",
+    "era": "ಆಧುನಿಕ (Modern - 20th Century)",
+    "verse": "ಪ್ರಯಾಣವೇ ಅನುಭವ, ತಡೆಗಳೇ ಪಾಠ, ನಿಂತರೆ ಸೋಲು, ನಡೆದರೆ ಗೆಲುವು.",
+    "meaning": "Journey itself is experience, obstacles are lessons, stopping is defeat, moving is victory.",
+    "bhavartha": "Gokak says that the journey of life teaches through its obstacles and challenges. A person who keeps moving forward despite difficulties ultimately achieves victory. Stopping in the face of problems means defeat.",
+    "difficultWords": [
+      { "word": "ಪ್ರಯಾಣ", "meaning": "Journey/travel" },
+      { "word": "ತಡೆ", "meaning": "Obstacle/barrier" },
+      { "word": "ಗೆಲುವು", "meaning": "Victory/success" }
+    ]
+  },
+  {
+    "id": 43,
+    "title": "ಸ್ವಾತಂತ್ರ್ಯ",
+    "poet": "ಮಾಸ್ತಿ ವೆಂಕಟೇಶ ಅಯ್ಯಂಗಾರ್",
+    "poetEnglish": "Masti Venkatesha Iyengar",
+    "era": "ಆಧುನಿಕ (Modern)",
+    "verse": "ಸ್ವಾತಂತ್ರ್ಯವೆಂಬುದು ಮನದ ಸ್ಥಿತಿ, ಅದನ್ನು ಯಾರೂ ಕಸಿದುಕೊಳ್ಳಲಾರರು.",
+    "meaning": "Freedom is a state of mind, no one can take it away.",
+    "bhavartha": "Masti says true freedom is not political or physical — it is an inner state of mind. Even in chains, a person with a free and fearless mind cannot be truly imprisoned.",
+    "difficultWords": [
+      { "word": "ಸ್ವಾತಂತ್ರ್ಯ", "meaning": "Freedom/independence" },
+      { "word": "ಸ್ಥಿತಿ", "meaning": "State/condition" },
+      { "word": "ಕಸಿದುಕೊಳ್ಳು", "meaning": "To snatch away" }
+    ]
+  },
+  {
+    "id": 44,
+    "title": "ಉದಯವಾಣಿ",
+    "poet": "ಗೋಪಾಲಕೃಷ್ಣ ಅಡಿಗ",
+    "poetEnglish": "Gopalkrishna Adiga",
+    "era": "ನವ್ಯ ಕಾವ್ಯ (Navya - Modern)",
+    "verse": "ಬದಲಾಗುವ ಜಗದಲ್ಲಿ ಬದಲಾಗದ ಮನಸ್ಸು, ಕವಿಯ ಕನಸು ಮಾತ್ರ ಚಿರಂತನ.",
+    "meaning": "In this ever-changing world, the unchanging mind of a poet — only the poet's dream is eternal.",
+    "bhavartha": "Adiga, the father of Navya Kannada poetry, reflects on how the world changes constantly but true poetic vision remains timeless. Art and imagination outlive everything.",
+    "difficultWords": [
+      { "word": "ಚಿರಂತನ", "meaning": "Eternal/everlasting" },
+      { "word": "ಕನಸು", "meaning": "Dream" },
+      { "word": "ಜಗ", "meaning": "World" }
+    ]
+  },
+  {
+    "id": 45,
+    "title": "ಕೃತಿ",
+    "poet": "ಗೋಪಾಲಕೃಷ್ಣ ಅಡಿಗ",
+    "poetEnglish": "Gopalkrishna Adiga",
+    "era": "ನವ್ಯ ಕಾವ್ಯ (Navya - Modern)",
+    "verse": "ಕೃತಿಯೇ ವ್ಯಕ್ತಿತ್ವವನ್ನು ತೋರಿಸುತ್ತದೆ, ಮಾತಲ್ಲ ಕ್ರಿಯೆಯಲ್ಲಿ ಅರ್ಥ.",
+    "meaning": "Work reflects personality, meaning lies not in words but in action.",
+    "bhavartha": "Adiga says that a person's true character is revealed through their actions and creations, not through their words. Actions speak louder — what you do defines who you are far more than what you say.",
+    "difficultWords": [
+      { "word": "ಕೃತಿ", "meaning": "Work/creation/action" },
+      { "word": "ವ್ಯಕ್ತಿತ್ವ", "meaning": "Personality/character" },
+      { "word": "ಕ್ರಿಯೆ", "meaning": "Action/deed" }
+    ]
+  },
+  {
+    "id": 46,
+    "title": "ಪ್ರಯತ್ನ",
+    "poet": "ಗೋಪಾಲಕೃಷ್ಣ ಅಡಿಗ",
+    "poetEnglish": "Gopalkrishna Adiga",
+    "era": "ನವ್ಯ ಕಾವ್ಯ (Navya - Modern)",
+    "verse": "ಪ್ರಯತ್ನವೇ ಯಶಸ್ಸಿನ ದಾರಿ, ಸೋಲಿರದ ಗೆಲುವಿಗೆ ಅರ್ಥವಿಲ್ಲ.",
+    "meaning": "Effort is the path to success, a victory without defeat has no meaning.",
+    "bhavartha": "Adiga says that effort and persistence are what lead to success. Moreover, a victory that comes without any struggle or failure is meaningless — it is the journey through hardship that makes success truly valuable.",
+    "difficultWords": [
+      { "word": "ಪ್ರಯತ್ನ", "meaning": "Effort/attempt" },
+      { "word": "ಯಶಸ್ಸು", "meaning": "Success" },
+      { "word": "ದಾರಿ", "meaning": "Path/way" }
+    ]
+  },
+  {
+    "id": 47,
+    "title": "ಹೆಮ್ಮೆ",
+    "poet": "ರಾಷ್ಟ್ರಕವಿ ಗೋವಿಂದ ಪೈ",
+    "poetEnglish": "Rashtra Kavi Govinda Pai",
+    "era": "ಆಧುನಿಕ (Modern - Early 20th Century)",
+    "verse": "ನಾಡಿನ ಮೇಲೆ ಹೆಮ್ಮೆ ಇಡು, ಭಾಷೆಯ ಮೇಲೆ ಪ್ರೀತಿ ಇಡು, ಕನ್ನಡ ಚಿರಂಜೀವಿ.",
+    "meaning": "Be proud of your land, love your language, Kannada lives forever.",
+    "bhavartha": "Govinda Pai calls on every Kannadiga to take pride in their land and cherish their language. Kannada is one of the world's oldest living languages and its survival depends on the love and pride of its speakers.",
+    "difficultWords": [
+      { "word": "ಹೆಮ್ಮೆ", "meaning": "Pride" },
+      { "word": "ಚಿರಂಜೀವಿ", "meaning": "One who lives forever/immortal" },
+      { "word": "ನಾಡು", "meaning": "Land/region" }
+    ]
+  },
+  {
+    "id": 48,
+    "title": "ಜೀವನ",
+    "poet": "ನಿಸಾರ್ ಅಹಮದ್",
+    "poetEnglish": "K.S. Nissar Ahmed",
+    "era": "ಆಧುನಿಕ (Modern - 20th Century)",
+    "verse": "ಜೀವನವು ಒಂದು ಪಯಣ, ಪ್ರತಿ ಹೆಜ್ಜೆಯೂ ಒಂದು ಅನುಭವ.",
+    "meaning": "Life is a journey, every step is an experience.",
+    "bhavartha": "Nissar Ahmed sees life as a continuous journey where each step — whether joyful or painful — adds to our experience and wisdom. No step is wasted; every moment teaches us something valuable.",
+    "difficultWords": [
+      { "word": "ಪಯಣ", "meaning": "Journey/travel" },
+      { "word": "ಹೆಜ್ಜೆ", "meaning": "Step/footstep" },
+      { "word": "ಅನುಭವ", "meaning": "Experience" }
+    ]
+  },
+  {
+    "id": 49,
+    "title": "ಪ್ರಕೃತಿ",
+    "poet": "ಚನ್ನವೀರ ಕಣವಿ",
+    "poetEnglish": "Channaveer Kanavi",
+    "era": "ಆಧುನಿಕ (Modern - 20th Century)",
+    "verse": "ಪ್ರಕೃತಿಯ ಜೊತೆ ಬದುಕಿದರೆ ಜೀವನ ಸುಂದರವಾಗುತ್ತದೆ, ಮರಗಳೇ ನಮ್ಮ ಉಸಿರು.",
+    "meaning": "Life becomes beautiful when lived with nature, trees are our very breath.",
+    "bhavartha": "Kanavi connects human wellbeing with nature. Living close to nature brings peace and beauty to life. Trees give us oxygen — they are literally our breath — making environmental care a deeply human responsibility.",
+    "difficultWords": [
+      { "word": "ಪ್ರಕೃತಿ", "meaning": "Nature" },
+      { "word": "ಉಸಿರು", "meaning": "Breath/life" },
+      { "word": "ಸುಂದರ", "meaning": "Beautiful" }
+    ]
+  },
+  {
+    "id": 50,
+    "title": "ಸತ್ಯ",
+    "poet": "ಸರ್ವಜ್ಞ",
+    "poetEnglish": "Sarvagna",
+    "era": "ಮಧ್ಯಕಾಲ (Medieval - 13th Century)",
+    "verse": "ಸತ್ಯವೇ ಶಾಶ್ವತ, ಸುಳ್ಳು ಕ್ಷಣಿಕ, ನೀತಿಯೇ ಜೀವನದ ಬೆಳಕು.",
+    "meaning": "Truth is eternal, lies are momentary, righteousness is the light of life.",
+    "bhavartha": "Sarvagna's final message — truth endures forever while lies fade quickly. A life built on righteousness and honesty shines like a lamp, guiding not just oneself but everyone around.",
+    "difficultWords": [
+      { "word": "ಶಾಶ್ವತ", "meaning": "Eternal/permanent" },
+      { "word": "ಕ್ಷಣಿಕ", "meaning": "Momentary/temporary" },
+      { "word": "ನೀತಿ", "meaning": "Righteousness/ethics" }
+    ]
+  }
+]
